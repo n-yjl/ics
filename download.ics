@@ -14,13 +14,13 @@ DTSTAMP:20240513T111045Z
 DESCRIPTION:Your connection:\n\n15:40 - departure Kearny Villa Rd & I-805, Stop ID 11662\n      with 25 to Fashion Valley\n15:53 - arrival Fashion Valley Transit Center, Stop ID 94045\n\n15:53 - Walk to Fashion Valley Station, Stop ID 75047, duration 2 min\n\n15:58 - departure Fashion Valley Station, Stop ID 75047\n      with Green to Santee\n16:05 - arrival Fenton Parkway Station, Stop ID 75055\n\n-----\nTotal duration: 25 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=d213b620-ad9b-461d-a798-3a76ca7d1d43
 END:VEVENT
 BEGIN:VEVENT
-UID:b97213d2-b377-478b-8ad2-a1209a211245
+UID:79c304ca-df7e-4098-9f1f-f813f5a19294
 CLASS:PUBLIC
-SUMMARY:Trip to Fenton Parkway Station, Stop ID 75055 || Start: Kearny Villa Rd & I-805, Stop ID 11662
-LOCATION:Kearny Villa Rd & I-805, Stop ID 11662
-DTSTART:20240514T224000Z
-DTEND:20240514T230500Z
-DTSTAMP:20240513T111045Z
-DESCRIPTION:Your connection:\n\n15:40 - departure Kearny Villa Rd & I-805, Stop ID 11662\n      with 25 to Fashion Valley\n15:53 - arrival Fashion Valley Transit Center, Stop ID 94045\n\n15:53 - Walk to Fashion Valley Station, Stop ID 75047, duration 2 min\n\n15:58 - departure Fashion Valley Station, Stop ID 75047\n      with Green to Santee\n16:05 - arrival Fenton Parkway Station, Stop ID 75055\n\n-----\nTotal duration: 25 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=d213b620-ad9b-461d-a798-3a76ca7d1d43
+SUMMARY:Trip to Miramar College Transit Station, Stop ID 23001 || Start: Fenton Parkway Station, Stop ID 75055
+LOCATION:Fenton Parkway Station, Stop ID 75055
+DTSTART:20240514T235200Z
+DTEND:20240515T004000Z
+DTSTAMP:20240513T120142Z
+DESCRIPTION:Your connection:\n\n16:52 - Walk to Fenton Parkway Station, Stop ID 75054, duration 1 min\n\n16:53 - departure Fenton Parkway Station, Stop ID 75054\n      with Green to 12th & Imperial\n17:01 - arrival Fashion Valley Station, Stop ID 75046\n\n17:01 - Walk to Fashion Valley Transit Center, Stop ID 94043, duration 2 min\n\n17:08 - departure Fashion Valley Transit Center, Stop ID 94043\n      with 20 to Rancho Bernardo Sta\n17:38 - arrival Miramar College Transit Station, Stop ID 23007\n\n17:38 - Walk to Miramar College Transit Station, Stop ID 23001, duration 2 min\n\n-----\nTotal duration: 48 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=2b8c8270-488a-4408-941a-0b578351d624
 END:VEVENT
 END:VCALENDAR
