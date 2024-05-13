@@ -13,4 +13,14 @@ DTEND:20240514T230500Z
 DTSTAMP:20240513T111045Z
 DESCRIPTION:Your connection:\n\n15:40 - departure Kearny Villa Rd & I-805, Stop ID 11662\n      with 25 to Fashion Valley\n15:53 - arrival Fashion Valley Transit Center, Stop ID 94045\n\n15:53 - Walk to Fashion Valley Station, Stop ID 75047, duration 2 min\n\n15:58 - departure Fashion Valley Station, Stop ID 75047\n      with Green to Santee\n16:05 - arrival Fenton Parkway Station, Stop ID 75055\n\n-----\nTotal duration: 25 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=d213b620-ad9b-461d-a798-3a76ca7d1d43
 END:VEVENT
+BEGIN:VEVENT
+UID:b97213d2-b377-478b-8ad2-a1209a211245
+CLASS:PUBLIC
+SUMMARY:Trip to Fenton Parkway Station, Stop ID 75055 || Start: Kearny Villa Rd & I-805, Stop ID 11662
+LOCATION:Kearny Villa Rd & I-805, Stop ID 11662
+DTSTART:20240514T224000Z
+DTEND:20240514T230500Z
+DTSTAMP:20240513T111045Z
+DESCRIPTION:Your connection:\n\n15:40 - departure Kearny Villa Rd & I-805, Stop ID 11662\n      with 25 to Fashion Valley\n15:53 - arrival Fashion Valley Transit Center, Stop ID 94045\n\n15:53 - Walk to Fashion Valley Station, Stop ID 75047, duration 2 min\n\n15:58 - departure Fashion Valley Station, Stop ID 75047\n      with Green to Santee\n16:05 - arrival Fenton Parkway Station, Stop ID 75055\n\n-----\nTotal duration: 25 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=d213b620-ad9b-461d-a798-3a76ca7d1d43
+END:VEVENT
 END:VCALENDAR
