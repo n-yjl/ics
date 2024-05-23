@@ -23,4 +23,14 @@ DTEND:20240515T004000Z
 DTSTAMP:20240513T120142Z
 DESCRIPTION:Your connection:\n\n16:52 - Walk to Fenton Parkway Station, Stop ID 75054, duration 1 min\n\n16:53 - departure Fenton Parkway Station, Stop ID 75054\n      with Green to 12th & Imperial\n17:01 - arrival Fashion Valley Station, Stop ID 75046\n\n17:01 - Walk to Fashion Valley Transit Center, Stop ID 94043, duration 2 min\n\n17:08 - departure Fashion Valley Transit Center, Stop ID 94043\n      with 20 to Rancho Bernardo Sta\n17:38 - arrival Miramar College Transit Station, Stop ID 23007\n\n17:38 - Walk to Miramar College Transit Station, Stop ID 23001, duration 2 min\n\n-----\nTotal duration: 48 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=2b8c8270-488a-4408-941a-0b578351d624
 END:VEVENT
+BEGIN:VEVENT
+UID:3bc86ec5-c494-44e6-8be7-e0c2177815d1
+CLASS:PUBLIC
+SUMMARY:Trip to Walter Anderson Nursery, Enterprise Street, County of San Diego || Start: Kearny Villa Rd & I-805, Stop ID 10493
+LOCATION:Kearny Villa Rd & I-805, Stop ID 10493
+DTSTART:20240523T223800Z
+DTEND:20240523T232400Z
+DTSTAMP:20240523T115834Z
+DESCRIPTION:Your connection:\n\n15:38 - Walk to Kearny Villa Rd & I-805, Stop ID 11662, duration 2 min\n\n15:40 - departure Kearny Villa Rd & I-805, Stop ID 11662\n      with 25 to Fashion Valley\n15:53 - arrival Fashion Valley Transit Center, Stop ID 94045\n\n15:53 - Walk to Fashion Valley Station, Stop ID 75046, duration 2 min\n\n16:01 - departure Fashion Valley Station, Stop ID 75046\n      with Green to 12th & Imperial\n16:07 - arrival Old Town Station, Stop ID 75043\n\n16:07 - Walk to Old Town Transit Center, Stop ID 89009, duration 2 min\n\n16:19 - departure Old Town Transit Center, Stop ID 89009\n      with 10 to University & College\n16:22 - arrival Pacific Hwy & Sports Arena Bl, Stop ID 11589\n\n16:22 - Walk to Walter Anderson Nursery, Enterprise Street, County of San Diego, duration 2 min\n\n-----\nTotal duration: 46 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=6e93c19b-f9e0-4a68-9194-431c05db0936
+END:VEVENT
 END:VCALENDAR
