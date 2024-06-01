@@ -54,13 +54,13 @@ DTSTAMP:20240601T161308Z
 DESCRIPTION:Your connection:\n\n11:45 - departure Kearny Villa Rd & 3665, Stop ID 12446\n      with 120 to Kearny Mesa\n11:57 - arrival Complex Dr & Clairemont Mesa Bl, Stop ID 88897\n\n11:57 - Walk to Clairemont Mesa Bl & Complex Dr, Stop ID 99375, duration 2 min\n\n12:01 - departure Clairemont Mesa Bl & Complex Dr, Stop ID 99375\n      with 235 to Downtown\n12:26 - arrival Broadway & Park Bl, Stop ID 99342\n\n12:26 - Walk to City College Station, Stop ID 75090, duration 2 min\n\n12:28 - departure City College Station, Stop ID 75090\n      with Blue to UTC\n12:34 - arrival America Plaza Station, Stop ID 75085\n\n12:34 - Walk to Flagship Cruises & Events, County of San Diego, duration 9 min\n\n-----\nTotal duration: 58 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=e7f3799c-3a95-455d-a407-58b4fc3422d2
 END:VEVENT
 BEGIN:VEVENT
-UID:518613b3-f7e0-4286-bf37-3773efae53c4
+UID:c65a926f-4aae-4ed9-bc87-249fa616657d
 CLASS:PUBLIC
 SUMMARY:Trip to Sabre Springs & Penasquitos Transit Station, Stop ID 23013 || Start: Pacific Hwy & Cedar St, Stop ID 11994
 LOCATION:Pacific Hwy & Cedar St, Stop ID 11994
-DTSTART:20240606T230300Z
-DTEND:20240606T234200Z
-DTSTAMP:20240601T162352Z
-DESCRIPTION:Your connection:\n\n16:03 - departure Pacific Hwy & Cedar St, Stop ID 11994\n      with 290 to Rancho Bernardo Sta\n16:42 - arrival Sabre Springs & Penasquitos Transit Station, Stop ID 23013\n\n-----\nTotal duration: 39 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=8c6322e5-dcd3-4c9e-99df-7cec40ccdbd7
+DTSTART:20240606T233300Z
+DTEND:20240607T001200Z
+DTSTAMP:20240601T162751Z
+DESCRIPTION:Your connection:\n\n16:33 - departure Pacific Hwy & Cedar St, Stop ID 11994\n      with 290 to Rancho Bernardo Sta\n17:12 - arrival Sabre Springs & Penasquitos Transit Station, Stop ID 23013\n\n-----\nTotal duration: 39 min\n\nGet the latest information about your connection in webapp: https://mts.hafas.cloud?storageRecon=dffd9b3e-64f4-421a-adcd-a9fb9d7e3ead
 END:VEVENT
 END:VCALENDAR
